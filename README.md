@@ -42,7 +42,7 @@ In this task, we will add tags
 
 1. When the deployment has completed, click **Go to resource** from the deployment blade. Alternatively, from the **All services** blade, search for and select **IoT Hub** and locate your new IoT Hub instance
 
-	![Screenshot of the deployment in progress and deployment succeeded notifications in Azure portal.](../images/0601.png)
+	![Screenshot of the deployment in progress and deployment succeeded notifications in Azure portal.](/images/0.png)
 
 2. 
 

@@ -3,8 +3,8 @@
 
 ---
 
-    title:  - Implement a TIA Portal v17 to Azure IoT Hub 
-    module: 'Module 1: 
+    title:  Implement a TIA Portal v17 to Azure IoT Hub 
+    module: Module 1: 
 ---
 # 01 - Tia Portal to Azure IOT Hub
 

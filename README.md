@@ -3,22 +3,21 @@
 
 ---
 wts:
-    title: '07 - Implement an Azure IoT Hub (10 min)'
-    module: 'Module 03: Describe core solutions and management tools'
+    title:  - Implement a TIA Portal v17 to Azure IoT Hub 
+    module: 'Module 1: Describe core solutions and management tools'
 ---
 # 07 - Implement an Azure IoT Hub (10 min)
 
 In this walkthrough, we will configure a new Azure IoT Hub in Azure Portal, and then authenticate a connection to an IoT device using the online Raspberry Pi device simulator. Sensor data and messages are passed from the Raspberry Pi simulator to your Azure IoT Hub, and you view metrics for the messaging activity in Azure Portal.
 
-# Task 1: Create an IoT hub 
+# Task 1: Create Tia Portal Project  
 
-In this task, we will create an IoT hub. 
+In this task, we will open Tia portal project. 
 
-1. Sign in to the [Azure portal](https://portal.azure.com).
+1. Sign in to the 
 
-2. From the **All services** blade, search for and select **IoT Hub** and then click **+ Add, + Create, + New**.
-
-3. On the **Basics** tab of the **IoT hub** blade, fill in the fields with the following details (replace **xxxx** in the name of the storage account with letters and digits such that the name is globally unique):
+2. From t
+3.
 
     | Settings | Value |
     |--|--|
@@ -37,8 +36,7 @@ In this task, we will create an IoT hub.
 
 7. Wait until the Azure IoT Hub instance is deployed. 
 
-# Task 2: Add an IoT device
-
+# Task 2: kepserver
 In this task, we will add an IoT device to the IoT hub. 
 
 1. When the deployment has completed, click **Go to resource** from the deployment blade. Alternatively, from the **All services** blade, search for and select **IoT Hub** and locate your new IoT Hub instance
